@@ -4,7 +4,7 @@
 
 # Chackeuse
 
-**Developer · Front-End · Unity · VRChat**
+**Developpeuse · Front-End · Unity · VRChat**
 
 Je développe, je crée et je teste de nouvelles idées.
 
