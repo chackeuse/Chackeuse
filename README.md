@@ -13,8 +13,8 @@ Développement, création et projets personnels.
 <img src="https://img.shields.io/badge/Java-C66BFF?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Python-F05CEB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-C66BFF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-C66BFF?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
 
 </div>
 
@@ -22,40 +22,68 @@ Développement, création et projets personnels.
 
 ## À propos de moi
 
-Hey, moi c'est Chackeuse.
+Hey, moi c'est **Chackeuse** !
 
 Je suis développeuse et je travaille sur différents projets autour du développement web, des bots Discord, des plugins Minecraft et de l'univers VRChat.
 
 J'aime expérimenter, personnaliser mes projets et développer des fonctionnalités adaptées à mes idées.
 
-Je passe aussi du temps sur Unity pour préparer, modifier et uploader des avatars VRChat.
+Je travaille également avec Unity pour préparer, modifier et uploader des avatars VRChat.
+
+### Ce que je fais
 
 - Développement de plugins Minecraft en Java
 - Création de bots Discord en JavaScript
 - Développement de scripts et d'outils en Python
-- Création d'interfaces web en HTML et CSS
-- Personnalisation et upload d'avatars VRChat
+- Création d'interfaces web en HTML, CSS et JavaScript
+- Préparation et personnalisation d'avatars VRChat
 - Réalisation de projets personnels variés
 
 Je partage ici mes créations, mes expérimentations et les projets sur lesquels je travaille.
 
 ---
 
-## Langages & domaines d'expertise
-
-| **Technologie** | **Spécialisation** |
-|:---|:---|
-| **Java** | Création de plugins Minecraft, ajout de fonctionnalités et personnalisation de l'expérience de jeu. |
-| **JavaScript** | Développement de bots Discord, commandes personnalisées, automatisation et intégration de fonctionnalités variées. |
-| **Python** | Création de scripts, d'outils personnalisés et de programmes répondant à différents besoins. |
-| **HTML** | Création et structuration de pages web et d'interfaces front-end. |
-| **CSS** | Design front-end, personnalisation visuelle, mises en page modernes, animations et interfaces responsive. |
+## Langages et domaines d'expertise
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" alt="Langages de programmation"/>
+### JavaScript — 35 %
+
+<img src="https://img.shields.io/badge/JavaScript-35%25-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript 35%"/>
+
+### Python — 30 %
+
+<img src="https://img.shields.io/badge/Python-30%25-C66BFF?style=for-the-badge&logo=python&logoColor=white" alt="Python 30%"/>
+
+### Java — 20 %
+
+<img src="https://img.shields.io/badge/Java-20%25-F05CEB?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 20%"/>
+
+### HTML — 8 %
+
+<img src="https://img.shields.io/badge/HTML-8%25-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 8%"/>
+
+### CSS — 7 %
+
+<img src="https://img.shields.io/badge/CSS-7%25-645CFF?style=for-the-badge&logo=css&logoColor=white" alt="CSS 7%"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=js,python,java&theme=dark" alt="JavaScript, Python et Java"/>
 
 </div>
+
+> Ces pourcentages représentent une répartition indicative de ma pratique des langages. Ils totalisent 100 % et ne correspondent pas aux statistiques automatiques de GitHub.
+
+### Mes spécialisations
+
+| Technologie | Spécialisation |
+|:---|:---|
+| JavaScript | Bots Discord, commandes personnalisées, automatisation et fonctionnalités interactives. |
+| Python | Scripts, outils personnalisés, automatisation et programmes utilitaires. |
+| Java | Plugins Minecraft, commandes et fonctionnalités personnalisées. |
+| HTML | Structure de pages web et création d'interfaces front-end. |
+| CSS | Design, animations, mises en page modernes et interfaces responsive. |
 
 ---
 
@@ -67,12 +95,12 @@ Je partage ici mes créations, mes expérimentations et les projets sur lesquels
 
 </div>
 
-| **Outil** | **Utilisation** |
+| Outil | Utilisation |
 |:---|:---|
-| **Visual Studio Code** | Développement web, scripts et édition de code. |
-| **IntelliJ IDEA** | Développement Java et création de plugins Minecraft. |
-| **Unity** | Préparation, personnalisation et upload d'avatars VRChat. |
-| **GitHub** | Hébergement de projets, partage de code et gestion de versions. |
+| Visual Studio Code | Développement web, scripts et édition de code. |
+| IntelliJ IDEA | Développement Java et création de plugins Minecraft. |
+| Unity | Préparation, personnalisation et upload d'avatars VRChat. |
+| GitHub | Hébergement de projets, partage de code et gestion de versions. |
 
 ---
 
@@ -88,7 +116,7 @@ J'aime créer des interfaces visuellement travaillées, expérimenter différent
 - Fonctionnalités interactives en JavaScript
 - Designs sombres, néon et cyberpunk
 - Personnalisation des couleurs et des animations
-- Mise en page responsive
+- Mises en page responsive
 - Interfaces adaptées aux besoins de chaque projet
 
 Mon objectif est de créer des interfaces esthétiques, modernes et agréables à utiliser.
@@ -99,7 +127,7 @@ Mon objectif est de créer des interfaces esthétiques, modernes et agréables �
 
 Je développe des bots Discord en JavaScript avec des fonctionnalités adaptées aux besoins de chaque projet.
 
-Selon les projets, je peux travailler sur :
+### Fonctionnalités possibles
 
 - Commandes personnalisées
 - Outils de modération
@@ -118,7 +146,7 @@ Je développe également des plugins Minecraft en Java.
 
 Je m'intéresse à la création de fonctionnalités personnalisées et aux outils permettant d'améliorer l'expérience de jeu sur un serveur.
 
-Mes projets peuvent notamment concerner :
+### Mes projets peuvent inclure
 
 - Commandes personnalisées
 - Outils d'administration
@@ -130,27 +158,28 @@ Chaque projet est une occasion d'expérimenter et d'améliorer mes compétences 
 
 ---
 
-## Python & Tools
+## Python et outils
 
 J'utilise Python pour développer des scripts et des outils adaptés à différents besoins.
 
-Je m'intéresse notamment à :
+### Mes domaines d'exploration
 
-- L'automatisation de tâches
-- La création de petits programmes
-- Les outils personnalisés
-- Le traitement de données
-- Les expérimentations techniques
+- Automatisation de tâches
+- Création de petits programmes
+- Outils personnalisés
+- Traitement de données
+- Scripts utilitaires
+- Expérimentations techniques
 
 Cette partie évolue en fonction de mes idées et des projets sur lesquels je travaille.
 
 ---
 
-## VRChat & Unity
+## VRChat et Unity
 
 Je travaille également sur des projets liés à VRChat, notamment autour des avatars et de Unity.
 
-Je pars de bases d'avatars existantes, notamment de ressources que j'ai ripées, puis je peux les uploader telles quelles ou les modifier selon le projet.
+Je peux partir de bases d'avatars existantes pour les préparer, les personnaliser ou les uploader, selon les autorisations et les droits associés aux ressources utilisées.
 
 ### Mes activités
 
@@ -171,7 +200,7 @@ Je propose des services d'upload Unity pour VRChat à des prix accessibles.
 
 Selon le projet, je peux notamment aider pour :
 
-| **Service** | **Description** |
+| Service | Description |
 |:---|:---|
 | Upload Unity | Préparation et publication d'avatars compatibles avec VRChat. |
 | Assistance Unity | Aide à la configuration et résolution de problèmes courants. |
@@ -190,7 +219,7 @@ J'aime travailler sur des projets variés et explorer de nouvelles idées.
 
 Sur mon GitHub, tu pourras retrouver mes créations, mes expérimentations et mes outils.
 
-Mes principaux domaines de développement :
+### Mes principaux domaines
 
 - Plugins Minecraft en Java
 - Bots Discord en JavaScript
@@ -210,29 +239,27 @@ Cette section évoluera au fur et à mesure de la publication de nouveaux projet
 
 <img src="https://github-readme-stats.vercel.app/api?username=Chackeuse&show_icons=true&hide_border=true&bg_color=140821&title_color=C66BFF&icon_color=F05CEB&text_color=E8DFF0" height="165" alt="Statistiques GitHub de Chackeuse"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chackeuse&layout=compact&hide_border=true&bg_color=140821&title_color=C66BFF&text_color=E8DFF0" height="165" alt="Langages utilisés par Chackeuse"/>
-
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Chackeuse&hide_border=true&background=140821&ring=C66BFF&fire=F05CEB&currStreakLabel=C66BFF&sideLabels=E8DFF0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B8AA8" width="70%" alt="Activité GitHub de Chackeuse"/>
+### Mes langages
+
+<img src="https://quickchart.io/chart?width=500&height=250&backgroundColor=%23140821&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27JavaScript%2035%25%27%2C%27Python%2030%25%27%2C%27Java%2020%25%27%2C%27HTML%208%25%27%2C%27CSS%207%25%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B35%2C30%2C20%2C8%2C7%5D%2CbackgroundColor%3A%5B%27%238A2BE2%27%2C%27%23C66BFF%27%2C%27%23F05CEB%27%2C%27%23645CFF%27%2C%27%239B59B6%27%5D%2CborderWidth%3A0%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7Bcolor%3A%27%23E8DFF0%27%7D%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Mes%20langages%27%2Ccolor%3A%27%23C66BFF%27%7D%7D%7D%7D" width="500" alt="Répartition personnalisée des langages : JavaScript 35 %, Python 30 %, Java 20 %, HTML 8 %, CSS 7 %"/>
 
 <br/><br/>
-
-##   Répartition de mes langages
 
 <img src="https://img.shields.io/badge/JavaScript-35%25-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript 35%"/>
 <img src="https://img.shields.io/badge/Python-30%25-C66BFF?style=for-the-badge&logo=python&logoColor=white" alt="Python 30%"/>
 <img src="https://img.shields.io/badge/Java-20%25-F05CEB?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 20%"/>
 <img src="https://img.shields.io/badge/HTML-8%25-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 8%"/>
-<img src="https://img.shields.io/badge/CSS-7%25-645CFF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 7%"/>
+<img src="https://img.shields.io/badge/CSS-7%25-645CFF?style=for-the-badge&logo=css&logoColor=white" alt="CSS 7%"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=js,python,java,html,css&theme=dark" alt="Langages de programmation"/>
+<img src="https://streak-stats.demolab.com?user=Chackeuse&hide_border=true&background=140821&ring=C66BFF&fire=F05CEB&currStreakLabel=C66BFF&sideLabels=E8DFF0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B8AA8" width="70%" alt="Activité GitHub de Chackeuse"/>
 
 </div>
 
-*Les statistiques GitHub sont calculées à partir de l'activité du compte. Les pourcentages ci-dessus sont une répartition indicative de ma pratique et totalisent 100 %.*
+*La carte circulaire et les badges présentent la répartition personnalisée de mes langages. Les autres cartes affichent les statistiques réelles du compte, selon les données disponibles.*
 
 ---
 
@@ -240,7 +267,7 @@ Cette section évoluera au fur et à mesure de la publication de nouveaux projet
 
 Continuer à apprendre, développer mes compétences et travailler sur des projets toujours plus intéressants.
 
-- Approfondir Java, JavaScript et Python
+- Approfondir JavaScript, Python et Java
 - Améliorer mes compétences en développement front-end
 - Créer des interfaces web modernes et personnalisées
 - Développer de nouveaux plugins Minecraft
@@ -254,7 +281,7 @@ Continuer à apprendre, développer mes compétences et travailler sur des proje
 
 Tu souhaites discuter d'un projet, poser une question ou simplement échanger ?
 
-Tu peux me contacter directement sur Discord.
+Tu peux me contacter sur Discord.
 
 <div align="center">
 
