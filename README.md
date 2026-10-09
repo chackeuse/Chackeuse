@@ -12,7 +12,7 @@ Je développe, je crée et je teste de nouvelles idées.
 [![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-F05CEB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-C66BFF?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![CSS](https://img.shields.io/badge/CSS-C66BFF?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
 
 </div>
 
