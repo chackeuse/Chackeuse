@@ -50,10 +50,10 @@ Je partage ici mes créations, mes tests et les projets sur lesquels je travaill
 | Langage | Utilisation |
 |:---|:---|
 | Java | Développement et projets personnels |
-| JavaScript | Interfaces interactives et fonctionnalités web |
-| Python | Scripts, automatisation et outils |
-| HTML | Structure des pages web |
-| CSS | Design, mise en page et animations |
+| JavaScript | Bots Discord, commandes personnalisées, automatisation et fonctionnalités interactives.  |
+| Python | Scripts, outils personnalisés, automatisation et programmes utilitaires. |
+| HTML | Structure de pages web et création d'interfaces front-end. |
+| CSS | Design, animations, mises en page modernes et interfaces responsive. |
 
 ---
 
