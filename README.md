@@ -216,9 +216,23 @@ Cette section évoluera au fur et à mesure de la publication de nouveaux projet
 
 <img src="https://streak-stats.demolab.com?user=Chackeuse&hide_border=true&background=140821&ring=C66BFF&fire=F05CEB&currStreakLabel=C66BFF&sideLabels=E8DFF0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B8AA8" width="70%" alt="Activité GitHub de Chackeuse"/>
 
+<br/><br/>
+
+## 💻 Répartition de mes langages
+
+<img src="https://img.shields.io/badge/JavaScript-35%25-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript 35%"/>
+<img src="https://img.shields.io/badge/Python-30%25-C66BFF?style=for-the-badge&logo=python&logoColor=white" alt="Python 30%"/>
+<img src="https://img.shields.io/badge/Java-20%25-F05CEB?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 20%"/>
+<img src="https://img.shields.io/badge/HTML-8%25-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 8%"/>
+<img src="https://img.shields.io/badge/CSS-7%25-645CFF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 7%"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=js,python,java,html,css&theme=dark" alt="Langages de programmation"/>
+
 </div>
 
-*Les statistiques se mettent à jour automatiquement selon l'activité de ton compte et la disponibilité des services utilisés.*
+*Les statistiques GitHub sont calculées à partir de l'activité du compte. Les pourcentages ci-dessus sont une répartition indicative de ma pratique et totalisent 100 %.*
 
 ---
 
