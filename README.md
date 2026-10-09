@@ -6,15 +6,13 @@
 
 **Developer · Front-End · Unity · VRChat**
 
-Développement, création et projets personnels.
+Je développe, je crée et je teste de nouvelles idées.
 
-<br/>
-
-<img src="https://img.shields.io/badge/Java-C66BFF?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-F05CEB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS-C66BFF?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
+[![Java](https://img.shields.io/badge/Java-C66BFF?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-F05CEB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-C66BFF?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
 
 </div>
 
@@ -22,68 +20,40 @@ Développement, création et projets personnels.
 
 ## À propos de moi
 
-Hey, moi c'est **Chackeuse** !
+Hey, moi c'est Chackeuse.
 
-Je suis développeuse et je travaille sur différents projets autour du développement web, des bots Discord, des plugins Minecraft et de l'univers VRChat.
+Je suis développeuse et je m'intéresse à plusieurs domaines : le développement front-end, la création de projets, la personnalisation d'interfaces et l'univers de VRChat.
 
-J'aime expérimenter, personnaliser mes projets et développer des fonctionnalités adaptées à mes idées.
+J'aime partir d'une idée, expérimenter différentes possibilités et essayer de créer quelque chose qui sort du lot.
 
-Je travaille également avec Unity pour préparer, modifier et uploader des avatars VRChat.
+Je travaille sur différents projets, que ce soit des interfaces web, des scripts, des applications ou des projets autour de Unity et VRChat.
 
-### Ce que je fais
+- Développement front-end en HTML, CSS et JavaScript
+- Projets en Java et Python
+- Création d'interfaces et personnalisation visuelle
+- Projets Unity et VRChat
+- Upload et modification d'avatars VRChat
+- Expérimentations et projets personnels
 
-- Développement de plugins Minecraft en Java
-- Création de bots Discord en JavaScript
-- Développement de scripts et d'outils en Python
-- Création d'interfaces web en HTML, CSS et JavaScript
-- Préparation et personnalisation d'avatars VRChat
-- Réalisation de projets personnels variés
-
-Je partage ici mes créations, mes expérimentations et les projets sur lesquels je travaille.
+Je partage ici mes créations, mes tests et les projets sur lesquels je travaille.
 
 ---
 
-## Langages et domaines d'expertise
+## Langages
 
 <div align="center">
 
-### JavaScript — 35 %
-
-<img src="https://img.shields.io/badge/JavaScript-35%25-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript 35%"/>
-
-### Python — 30 %
-
-<img src="https://img.shields.io/badge/Python-30%25-C66BFF?style=for-the-badge&logo=python&logoColor=white" alt="Python 30%"/>
-
-### Java — 20 %
-
-<img src="https://img.shields.io/badge/Java-20%25-F05CEB?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 20%"/>
-
-### HTML — 8 %
-
-<img src="https://img.shields.io/badge/HTML-8%25-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 8%"/>
-
-### CSS — 7 %
-
-<img src="https://img.shields.io/badge/CSS-7%25-645CFF?style=for-the-badge&logo=css&logoColor=white" alt="CSS 7%"/>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=js,python,java&theme=dark" alt="JavaScript, Python et Java"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" alt="Java, JavaScript, Python, HTML et CSS"/>
 
 </div>
 
-> Ces pourcentages représentent une répartition indicative de ma pratique des langages. Ils totalisent 100 % et ne correspondent pas aux statistiques automatiques de GitHub.
-
-### Mes spécialisations
-
-| Technologie | Spécialisation |
+| Langage | Utilisation |
 |:---|:---|
-| JavaScript | Bots Discord, commandes personnalisées, automatisation et fonctionnalités interactives. |
-| Python | Scripts, outils personnalisés, automatisation et programmes utilitaires. |
-| Java | Plugins Minecraft, commandes et fonctionnalités personnalisées. |
-| HTML | Structure de pages web et création d'interfaces front-end. |
-| CSS | Design, animations, mises en page modernes et interfaces responsive. |
+| Java | Développement et projets personnels |
+| JavaScript | Interfaces interactives et fonctionnalités web |
+| Python | Scripts, automatisation et outils |
+| HTML | Structure des pages web |
+| CSS | Design, mise en page et animations |
 
 ---
 
@@ -97,100 +67,69 @@ Je partage ici mes créations, mes expérimentations et les projets sur lesquels
 
 | Outil | Utilisation |
 |:---|:---|
-| Visual Studio Code | Développement web, scripts et édition de code. |
-| IntelliJ IDEA | Développement Java et création de plugins Minecraft. |
-| Unity | Préparation, personnalisation et upload d'avatars VRChat. |
-| GitHub | Hébergement de projets, partage de code et gestion de versions. |
+| Visual Studio Code | Développement web, scripts et édition de code |
+| IntelliJ IDEA | Développement Java |
+| Unity | Préparation, personnalisation et upload d'avatars VRChat |
+| GitHub | Hébergement de projets, partage de code et gestion de versions |
 
 ---
 
 ## Front-End Development
 
-Le développement front-end fait partie des domaines qui m'intéressent particulièrement.
+Le développement front-end est l'un des domaines dans lesquels je travaille.
 
-J'aime créer des interfaces visuellement travaillées, expérimenter différents styles et donner une identité propre à chaque projet.
+J'aime créer des interfaces visuellement travaillées, tester des styles différents et donner une identité propre à chaque projet.
 
-### Ce que je développe
+Mes domaines d'intérêt :
 
-- Interfaces web en HTML et CSS
-- Fonctionnalités interactives en JavaScript
-- Designs sombres, néon et cyberpunk
+- Création de pages web en HTML et CSS
+- Interfaces interactives en JavaScript
+- Design sombre, néon et cyberpunk
 - Personnalisation des couleurs et des animations
-- Mises en page responsive
-- Interfaces adaptées aux besoins de chaque projet
+- Mise en page responsive
+- Expérimentation de nouvelles idées visuelles
 
-Mon objectif est de créer des interfaces esthétiques, modernes et agréables à utiliser.
-
----
-
-## Bots Discord
-
-Je développe des bots Discord en JavaScript avec des fonctionnalités adaptées aux besoins de chaque projet.
-
-### Fonctionnalités possibles
-
-- Commandes personnalisées
-- Outils de modération
-- Systèmes de gestion de serveur
-- Automatisation de tâches
-- Fonctionnalités interactives
-- Organisation et personnalisation des commandes
-
-J'aime créer des outils pratiques et expérimenter de nouvelles fonctionnalités pour les serveurs Discord.
+Mon objectif est de créer des interfaces à la fois esthétiques et agréables à utiliser.
 
 ---
 
-## Plugins Minecraft
-
-Je développe également des plugins Minecraft en Java.
-
-Je m'intéresse à la création de fonctionnalités personnalisées et aux outils permettant d'améliorer l'expérience de jeu sur un serveur.
-
-### Mes projets peuvent inclure
-
-- Commandes personnalisées
-- Outils d'administration
-- Fonctionnalités de gameplay
-- Systèmes de gestion
-- Personnalisation des mécaniques de jeu
-
-Chaque projet est une occasion d'expérimenter et d'améliorer mes compétences en Java.
-
----
-
-## Python et outils
-
-J'utilise Python pour développer des scripts et des outils adaptés à différents besoins.
-
-### Mes domaines d'exploration
-
-- Automatisation de tâches
-- Création de petits programmes
-- Outils personnalisés
-- Traitement de données
-- Scripts utilitaires
-- Expérimentations techniques
-
-Cette partie évolue en fonction de mes idées et des projets sur lesquels je travaille.
-
----
-
-## VRChat et Unity
+## VRChat & Unity
 
 Je travaille également sur des projets liés à VRChat, notamment autour des avatars et de Unity.
 
-Je peux partir de bases d'avatars existantes pour les préparer, les personnaliser ou les uploader, selon les autorisations et les droits associés aux ressources utilisées.
+Je pars de bases d'avatars existantes que j'ai obtenues ou ripées, puis je peux les uploader telles quelles ou les modifier selon le projet.
 
-### Mes activités
+Je m'intéresse notamment à :
 
-- Préparation de projets Unity
-- Importation et upload d'avatars VRChat
-- Personnalisation d'avatars existants
-- Modifications visuelles et techniques
-- Résolution de problèmes courants liés à Unity
-- Expérimentation autour des avatars et des projets VRChat
+- L'importation et la préparation d'avatars dans Unity
+- L'upload d'avatars sur VRChat
+- La personnalisation d'avatars existants
+- Les modifications visuelles et techniques
+- La résolution de problèmes liés aux projets Unity
 
-Les ressources de tiers doivent être utilisées dans le respect des droits de leurs créateurs et des autorisations applicables.
+Je propose aussi des services d'upload Unity à petit prix.
+
+Les modifications et les publications dépendent du projet, des autorisations disponibles et des droits associés aux ressources utilisées.
+
+---
+
+## Mes projets
+
+J'aime travailler sur plein de projets différents et explorer de nouvelles idées.
+
+Sur mon GitHub, tu pourras retrouver mes créations, mes expérimentations et mes outils.
+
+Mes projets peuvent concerner :
+
+- Développement Java
+- Applications et scripts Python
+- Interfaces web HTML, CSS et JavaScript
+- Projets front-end
+- Outils et expérimentations personnelles
+- Unity et VRChat
+- Personnalisation et création de projets numériques
+
+Cette section évoluera au fil de mes créations.
 
 ---
 
@@ -200,36 +139,15 @@ Je propose des services d'upload Unity pour VRChat à des prix accessibles.
 
 Selon le projet, je peux notamment aider pour :
 
-| Service | Description |
-|:---|:---|
-| Upload Unity | Préparation et publication d'avatars compatibles avec VRChat. |
-| Assistance Unity | Aide à la configuration et résolution de problèmes courants. |
-| Préparation de projet | Vérification des paramètres avant l'upload. |
-| Modification d'avatar | Modifications possibles selon le projet et les autorisations disponibles. |
+- La préparation d'un projet Unity
+- L'importation d'avatars
+- L'upload d'avatars sur VRChat
+- Certaines modifications d'avatars
+- La résolution de problèmes techniques courants
 
-**Des tarifs accessibles, adaptés au travail demandé.**
+Les tarifs dépendent du travail demandé.
 
-Pour toute demande, présente ton projet et le résultat souhaité afin de déterminer le travail nécessaire.
-
----
-
-## Mes projets
-
-J'aime travailler sur des projets variés et explorer de nouvelles idées.
-
-Sur mon GitHub, tu pourras retrouver mes créations, mes expérimentations et mes outils.
-
-### Mes principaux domaines
-
-- Plugins Minecraft en Java
-- Bots Discord en JavaScript
-- Scripts et outils Python
-- Interfaces web en HTML, CSS et JavaScript
-- Projets front-end
-- Unity et VRChat
-- Outils et projets personnels
-
-Cette section évoluera au fur et à mesure de la publication de nouveaux projets.
+Pour les avatars et les ressources de tiers, je travaille dans le respect des autorisations et des droits applicables.
 
 ---
 
@@ -237,77 +155,47 @@ Cette section évoluera au fur et à mesure de la publication de nouveaux projet
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chackeuse&show_icons=true&hide_border=true&bg_color=140821&title_color=C66BFF&icon_color=F05CEB&text_color=E8DFF0" height="165" alt="Statistiques GitHub de Chackeuse"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BlackHime&show_icons=true&hide_border=true&bg_color=140821&title_color=C66BFF&icon_color=F05CEB&text_color=E8DFF0" height="165" alt="Statistiques GitHub"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHime&layout=compact&hide_border=true&bg_color=140821&title_color=C66BFF&text_color=E8DFF0" height="165" alt="Langages utilisés"/>
 
 <br/><br/>
 
-### Mes langages
-
-<img src="https://quickchart.io/chart?width=500&height=250&backgroundColor=%23140821&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27JavaScript%2035%25%27%2C%27Python%2030%25%27%2C%27Java%2020%25%27%2C%27HTML%208%25%27%2C%27CSS%207%25%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B35%2C30%2C20%2C8%2C7%5D%2CbackgroundColor%3A%5B%27%238A2BE2%27%2C%27%23C66BFF%27%2C%27%23F05CEB%27%2C%27%23645CFF%27%2C%27%239B59B6%27%5D%2CborderWidth%3A0%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7Bcolor%3A%27%23E8DFF0%27%7D%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Mes%20langages%27%2Ccolor%3A%27%23C66BFF%27%7D%7D%7D%7D" width="500" alt="Répartition personnalisée des langages : JavaScript 35 %, Python 30 %, Java 20 %, HTML 8 %, CSS 7 %"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/JavaScript-35%25-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript 35%"/>
-<img src="https://img.shields.io/badge/Python-30%25-C66BFF?style=for-the-badge&logo=python&logoColor=white" alt="Python 30%"/>
-<img src="https://img.shields.io/badge/Java-20%25-F05CEB?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 20%"/>
-<img src="https://img.shields.io/badge/HTML-8%25-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 8%"/>
-<img src="https://img.shields.io/badge/CSS-7%25-645CFF?style=for-the-badge&logo=css&logoColor=white" alt="CSS 7%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Chackeuse&hide_border=true&background=140821&ring=C66BFF&fire=F05CEB&currStreakLabel=C66BFF&sideLabels=E8DFF0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B8AA8" width="70%" alt="Activité GitHub de Chackeuse"/>
+<img src="https://streak-stats.demolab.com?user=BlackHime&hide_border=true&background=140821&ring=C66BFF&fire=F05CEB&currStreakLabel=C66BFF&sideLabels=E8DFF0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B8AA8" width="70%" alt="Activité GitHub"/>
 
 </div>
-
-*La carte circulaire et les badges présentent la répartition personnalisée de mes langages. Les autres cartes affichent les statistiques réelles du compte, selon les données disponibles.*
 
 ---
 
 ## Objectifs
 
-Continuer à apprendre, développer mes compétences et travailler sur des projets toujours plus intéressants.
+Continuer à progresser, apprendre de nouvelles choses et développer des projets toujours plus intéressants.
 
-- Approfondir JavaScript, Python et Java
+Je souhaite notamment :
+
 - Améliorer mes compétences en développement front-end
-- Créer des interfaces web modernes et personnalisées
-- Développer de nouveaux plugins Minecraft
-- Améliorer mes bots Discord
+- Approfondir Java, JavaScript et Python
+- Créer des interfaces web plus travaillées
+- Développer de nouveaux outils et applications
 - Explorer davantage Unity et VRChat
-- Partager mes projets et mes expérimentations
+- Partager mes projets et mes expériences
 
 ---
 
 ## Contact
 
-Tu souhaites discuter d'un projet, poser une question ou simplement échanger ?
-
-Tu peux me contacter sur Discord.
+Tu peux retrouver mes projets et mes expérimentations directement sur GitHub.
 
 <div align="center">
 
-<a href="https://github.com/Chackeuse">
-<img src="https://img.shields.io/badge/GitHub-Chackeuse-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Chackeuse"/>
+<a href="https://github.com/BlackHime">
+<img src="https://img.shields.io/badge/GitHub-BlackHime-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub BlackHime"/>
 </a>
-
-<a href="https://discord.com/">
-<img src="https://img.shields.io/badge/Discord-Chackeuse-C66BFF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Chackeuse"/>
-</a>
-
-<br/><br/>
-
-**Discord : `Chackeuse`**
-
-Pour me contacter, ajoute-moi sur Discord avec ce pseudo.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Theme-Black%20%26%20Purple-140821?style=flat-square" alt="Thème noir et violet"/>
-<img src="https://img.shields.io/badge/Style-Neon%20Purple-C66BFF?style=flat-square" alt="Style violet néon"/>
 
 <br/><br/>
 
 *Code in the shadows, create your own universe.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05CEB,50:8A2BE2,100:0D0614&height=120&section=footer" width="100%" alt="Chackeuse Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05CEB,50:8A2BE2,100:0D0614&height=120&section=footer" width="100%" alt="Footer Chackeuse"/>
 
 </div>
