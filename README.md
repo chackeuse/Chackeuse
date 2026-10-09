@@ -188,8 +188,8 @@ Tu peux retrouver mes projets et mes expérimentations directement sur GitHub.
 
 <div align="center">
 
-<a href="https://github.com/BlackHime">
-<img src="https://img.shields.io/badge/GitHub-BlackHime-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub BlackHime"/>
+<a href="https://github.com/chackeuse">
+<img src="https://img.shields.io/badge/GitHub-BlackHime-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Chackeuse"/>
 </a>
 
 <br/><br/>
