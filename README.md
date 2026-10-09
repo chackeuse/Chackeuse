@@ -208,17 +208,17 @@ Cette section évoluera au fur et à mesure de la publication de nouveaux projet
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BlackHime&show_icons=true&hide_border=true&bg_color=140821&title_color=C66BFF&icon_color=F05CEB&text_color=E8DFF0" height="165" alt="Statistiques GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Chackeuse&show_icons=true&hide_border=true&bg_color=140821&title_color=C66BFF&icon_color=F05CEB&text_color=E8DFF0" height="165" alt="Statistiques GitHub de Chackeuse"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHime&layout=compact&hide_border=true&bg_color=140821&title_color=C66BFF&text_color=E8DFF0" height="165" alt="Langages les plus utilisés"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chackeuse&layout=compact&hide_border=true&bg_color=140821&title_color=C66BFF&text_color=E8DFF0" height="165" alt="Langages utilisés par Chackeuse"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=BlackHime&hide_border=true&background=140821&ring=C66BFF&fire=F05CEB&currStreakLabel=C66BFF&sideLabels=E8DFF0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B8AA8" width="70%" alt="Activité GitHub"/>
+<img src="https://streak-stats.demolab.com?user=Chackeuse&hide_border=true&background=140821&ring=C66BFF&fire=F05CEB&currStreakLabel=C66BFF&sideLabels=E8DFF0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B8AA8" width="70%" alt="Activité GitHub de Chackeuse"/>
 
 </div>
 
-*Les statistiques dépendent de l'activité du compte et de la disponibilité des services externes.*
+*Les statistiques se mettent à jour automatiquement selon l'activité de ton compte et la disponibilité des services utilisés.*
 
 ---
 
@@ -226,11 +226,9 @@ Cette section évoluera au fur et à mesure de la publication de nouveaux projet
 
 Continuer à apprendre, développer mes compétences et travailler sur des projets toujours plus intéressants.
 
-Mes objectifs :
-
 - Approfondir Java, JavaScript et Python
 - Améliorer mes compétences en développement front-end
-- Créer des interfaces web plus travaillées
+- Créer des interfaces web modernes et personnalisées
 - Développer de nouveaux plugins Minecraft
 - Améliorer mes bots Discord
 - Explorer davantage Unity et VRChat
@@ -240,15 +238,27 @@ Mes objectifs :
 
 ## Contact
 
-Tu peux retrouver mes projets et mes expérimentations directement sur GitHub.
+Tu souhaites discuter d'un projet, poser une question ou simplement échanger ?
+
+Tu peux me contacter directement sur Discord.
 
 <div align="center">
 
-<a href="https://github.com/BlackHime">
-<img src="https://img.shields.io/badge/GitHub-BlackHime-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub BlackHime"/>
+<a href="https://github.com/Chackeuse">
+<img src="https://img.shields.io/badge/GitHub-Chackeuse-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Chackeuse"/>
+</a>
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-Chackeuse-C66BFF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Chackeuse"/>
 </a>
 
 <br/><br/>
+
+**Discord : `Chackeuse`**
+
+Pour me contacter, ajoute-moi sur Discord avec ce pseudo.
+
+<br/>
 
 <img src="https://img.shields.io/badge/Theme-Black%20%26%20Purple-140821?style=flat-square" alt="Thème noir et violet"/>
 <img src="https://img.shields.io/badge/Style-Neon%20Purple-C66BFF?style=flat-square" alt="Style violet néon"/>
