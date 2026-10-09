@@ -6,13 +6,15 @@
 
 **Developer · Front-End · Unity · VRChat**
 
-Je développe, je crée et je teste de nouvelles idées.
+Développement, création et projets personnels.
 
-[![Java](https://img.shields.io/badge/Java-C66BFF?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-F05CEB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-C66BFF?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
+<br/>
+
+<img src="https://img.shields.io/badge/Java-C66BFF?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-F05CEB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-C66BFF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
 </div>
 
@@ -22,38 +24,38 @@ Je développe, je crée et je teste de nouvelles idées.
 
 Hey, moi c'est Chackeuse.
 
-Je suis développeuse et je m'intéresse à plusieurs domaines : le développement front-end, la création de projets, la personnalisation d'interfaces et l'univers de VRChat.
+Je suis développeuse et je travaille sur différents projets autour du développement web, des bots Discord, des plugins Minecraft et de l'univers VRChat.
 
-J'aime partir d'une idée, expérimenter différentes possibilités et essayer de créer quelque chose qui sort du lot.
+J'aime expérimenter, personnaliser mes projets et développer des fonctionnalités adaptées à mes idées.
 
-Je travaille sur différents projets, que ce soit des interfaces web, des scripts, des applications ou des projets autour de Unity et VRChat.
+Je passe aussi du temps sur Unity pour préparer, modifier et uploader des avatars VRChat.
 
-- Développement front-end en HTML, CSS et JavaScript
-- Projets en Java et Python
-- Création d'interfaces et personnalisation visuelle
-- Projets Unity et VRChat
-- Upload et modification d'avatars VRChat
-- Expérimentations et projets personnels
+- Développement de plugins Minecraft en Java
+- Création de bots Discord en JavaScript
+- Développement de scripts et d'outils en Python
+- Création d'interfaces web en HTML et CSS
+- Personnalisation et upload d'avatars VRChat
+- Réalisation de projets personnels variés
 
-Je partage ici mes créations, mes tests et les projets sur lesquels je travaille.
+Je partage ici mes créations, mes expérimentations et les projets sur lesquels je travaille.
 
 ---
 
-## Langages
+## Langages & domaines d'expertise
+
+| **Technologie** | **Spécialisation** |
+|:---|:---|
+| **Java** | Création de plugins Minecraft, ajout de fonctionnalités et personnalisation de l'expérience de jeu. |
+| **JavaScript** | Développement de bots Discord, commandes personnalisées, automatisation et intégration de fonctionnalités variées. |
+| **Python** | Création de scripts, d'outils personnalisés et de programmes répondant à différents besoins. |
+| **HTML** | Création et structuration de pages web et d'interfaces front-end. |
+| **CSS** | Design front-end, personnalisation visuelle, mises en page modernes, animations et interfaces responsive. |
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" alt="Java, JavaScript, Python, HTML et CSS"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" alt="Langages de programmation"/>
 
 </div>
-
-| Langage | Utilisation |
-|:---|:---|
-| Java | Développement et projets personnels |
-| JavaScript | Interfaces interactives et fonctionnalités web |
-| Python | Scripts, automatisation et outils |
-| HTML | Structure des pages web |
-| CSS | Design, mise en page et animations |
 
 ---
 
@@ -65,31 +67,82 @@ Je partage ici mes créations, mes tests et les projets sur lesquels je travaill
 
 </div>
 
-| Outil | Utilisation |
+| **Outil** | **Utilisation** |
 |:---|:---|
-| Visual Studio Code | Développement web, scripts et édition de code |
-| IntelliJ IDEA | Développement Java |
-| Unity | Préparation, personnalisation et upload d'avatars VRChat |
-| GitHub | Hébergement de projets, partage de code et gestion de versions |
+| **Visual Studio Code** | Développement web, scripts et édition de code. |
+| **IntelliJ IDEA** | Développement Java et création de plugins Minecraft. |
+| **Unity** | Préparation, personnalisation et upload d'avatars VRChat. |
+| **GitHub** | Hébergement de projets, partage de code et gestion de versions. |
 
 ---
 
 ## Front-End Development
 
-Le développement front-end est l'un des domaines dans lesquels je travaille.
+Le développement front-end fait partie des domaines qui m'intéressent particulièrement.
 
-J'aime créer des interfaces visuellement travaillées, tester des styles différents et donner une identité propre à chaque projet.
+J'aime créer des interfaces visuellement travaillées, expérimenter différents styles et donner une identité propre à chaque projet.
 
-Mes domaines d'intérêt :
+### Ce que je développe
 
-- Création de pages web en HTML et CSS
-- Interfaces interactives en JavaScript
-- Design sombre, néon et cyberpunk
+- Interfaces web en HTML et CSS
+- Fonctionnalités interactives en JavaScript
+- Designs sombres, néon et cyberpunk
 - Personnalisation des couleurs et des animations
 - Mise en page responsive
-- Expérimentation de nouvelles idées visuelles
+- Interfaces adaptées aux besoins de chaque projet
 
-Mon objectif est de créer des interfaces à la fois esthétiques et agréables à utiliser.
+Mon objectif est de créer des interfaces esthétiques, modernes et agréables à utiliser.
+
+---
+
+## Bots Discord
+
+Je développe des bots Discord en JavaScript avec des fonctionnalités adaptées aux besoins de chaque projet.
+
+Selon les projets, je peux travailler sur :
+
+- Commandes personnalisées
+- Outils de modération
+- Systèmes de gestion de serveur
+- Automatisation de tâches
+- Fonctionnalités interactives
+- Organisation et personnalisation des commandes
+
+J'aime créer des outils pratiques et expérimenter de nouvelles fonctionnalités pour les serveurs Discord.
+
+---
+
+## Plugins Minecraft
+
+Je développe également des plugins Minecraft en Java.
+
+Je m'intéresse à la création de fonctionnalités personnalisées et aux outils permettant d'améliorer l'expérience de jeu sur un serveur.
+
+Mes projets peuvent notamment concerner :
+
+- Commandes personnalisées
+- Outils d'administration
+- Fonctionnalités de gameplay
+- Systèmes de gestion
+- Personnalisation des mécaniques de jeu
+
+Chaque projet est une occasion d'expérimenter et d'améliorer mes compétences en Java.
+
+---
+
+## Python & Tools
+
+J'utilise Python pour développer des scripts et des outils adaptés à différents besoins.
+
+Je m'intéresse notamment à :
+
+- L'automatisation de tâches
+- La création de petits programmes
+- Les outils personnalisés
+- Le traitement de données
+- Les expérimentations techniques
+
+Cette partie évolue en fonction de mes idées et des projets sur lesquels je travaille.
 
 ---
 
@@ -97,39 +150,18 @@ Mon objectif est de créer des interfaces à la fois esthétiques et agréables 
 
 Je travaille également sur des projets liés à VRChat, notamment autour des avatars et de Unity.
 
-Je pars de bases d'avatars existantes que j'ai obtenues ou ripées, puis je peux les uploader telles quelles ou les modifier selon le projet.
+Je pars de bases d'avatars existantes, notamment de ressources que j'ai ripées, puis je peux les uploader telles quelles ou les modifier selon le projet.
 
-Je m'intéresse notamment à :
+### Mes activités
 
-- L'importation et la préparation d'avatars dans Unity
-- L'upload d'avatars sur VRChat
-- La personnalisation d'avatars existants
-- Les modifications visuelles et techniques
-- La résolution de problèmes liés aux projets Unity
+- Préparation de projets Unity
+- Importation et upload d'avatars VRChat
+- Personnalisation d'avatars existants
+- Modifications visuelles et techniques
+- Résolution de problèmes courants liés à Unity
+- Expérimentation autour des avatars et des projets VRChat
 
-Je propose aussi des services d'upload Unity à petit prix.
-
-Les modifications et les publications dépendent du projet, des autorisations disponibles et des droits associés aux ressources utilisées.
-
----
-
-## Mes projets
-
-J'aime travailler sur plein de projets différents et explorer de nouvelles idées.
-
-Sur mon GitHub, tu pourras retrouver mes créations, mes expérimentations et mes outils.
-
-Mes projets peuvent concerner :
-
-- Développement Java
-- Applications et scripts Python
-- Interfaces web HTML, CSS et JavaScript
-- Projets front-end
-- Outils et expérimentations personnelles
-- Unity et VRChat
-- Personnalisation et création de projets numériques
-
-Cette section évoluera au fil de mes créations.
+Les ressources de tiers doivent être utilisées dans le respect des droits de leurs créateurs et des autorisations applicables.
 
 ---
 
@@ -139,15 +171,36 @@ Je propose des services d'upload Unity pour VRChat à des prix accessibles.
 
 Selon le projet, je peux notamment aider pour :
 
-- La préparation d'un projet Unity
-- L'importation d'avatars
-- L'upload d'avatars sur VRChat
-- Certaines modifications d'avatars
-- La résolution de problèmes techniques courants
+| **Service** | **Description** |
+|:---|:---|
+| Upload Unity | Préparation et publication d'avatars compatibles avec VRChat. |
+| Assistance Unity | Aide à la configuration et résolution de problèmes courants. |
+| Préparation de projet | Vérification des paramètres avant l'upload. |
+| Modification d'avatar | Modifications possibles selon le projet et les autorisations disponibles. |
 
-Les tarifs dépendent du travail demandé.
+**Des tarifs accessibles, adaptés au travail demandé.**
 
-Pour les avatars et les ressources de tiers, je travaille dans le respect des autorisations et des droits applicables.
+Pour toute demande, présente ton projet et le résultat souhaité afin de déterminer le travail nécessaire.
+
+---
+
+## Mes projets
+
+J'aime travailler sur des projets variés et explorer de nouvelles idées.
+
+Sur mon GitHub, tu pourras retrouver mes créations, mes expérimentations et mes outils.
+
+Mes principaux domaines de développement :
+
+- Plugins Minecraft en Java
+- Bots Discord en JavaScript
+- Scripts et outils Python
+- Interfaces web en HTML, CSS et JavaScript
+- Projets front-end
+- Unity et VRChat
+- Outils et projets personnels
+
+Cette section évoluera au fur et à mesure de la publication de nouveaux projets.
 
 ---
 
@@ -157,7 +210,7 @@ Pour les avatars et les ressources de tiers, je travaille dans le respect des au
 
 <img src="https://github-readme-stats.vercel.app/api?username=BlackHime&show_icons=true&hide_border=true&bg_color=140821&title_color=C66BFF&icon_color=F05CEB&text_color=E8DFF0" height="165" alt="Statistiques GitHub"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHime&layout=compact&hide_border=true&bg_color=140821&title_color=C66BFF&text_color=E8DFF0" height="165" alt="Langages utilisés"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHime&layout=compact&hide_border=true&bg_color=140821&title_color=C66BFF&text_color=E8DFF0" height="165" alt="Langages les plus utilisés"/>
 
 <br/><br/>
 
@@ -165,20 +218,23 @@ Pour les avatars et les ressources de tiers, je travaille dans le respect des au
 
 </div>
 
+*Les statistiques dépendent de l'activité du compte et de la disponibilité des services externes.*
+
 ---
 
 ## Objectifs
 
-Continuer à progresser, apprendre de nouvelles choses et développer des projets toujours plus intéressants.
+Continuer à apprendre, développer mes compétences et travailler sur des projets toujours plus intéressants.
 
-Je souhaite notamment :
+Mes objectifs :
 
-- Améliorer mes compétences en développement front-end
 - Approfondir Java, JavaScript et Python
+- Améliorer mes compétences en développement front-end
 - Créer des interfaces web plus travaillées
-- Développer de nouveaux outils et applications
+- Développer de nouveaux plugins Minecraft
+- Améliorer mes bots Discord
 - Explorer davantage Unity et VRChat
-- Partager mes projets et mes expériences
+- Partager mes projets et mes expérimentations
 
 ---
 
@@ -194,8 +250,13 @@ Tu peux retrouver mes projets et mes expérimentations directement sur GitHub.
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/Theme-Black%20%26%20Purple-140821?style=flat-square" alt="Thème noir et violet"/>
+<img src="https://img.shields.io/badge/Style-Neon%20Purple-C66BFF?style=flat-square" alt="Style violet néon"/>
+
+<br/><br/>
+
 *Code in the shadows, create your own universe.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05CEB,50:8A2BE2,100:0D0614&height=120&section=footer" width="100%" alt="Footer Chackeuse"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05CEB,50:8A2BE2,100:0D0614&height=120&section=footer" width="100%" alt="Chackeuse Footer"/>
 
 </div>
