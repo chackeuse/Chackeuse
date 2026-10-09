@@ -184,12 +184,16 @@ Je souhaite notamment :
 
 ## Contact
 
-Tu peux retrouver mes projets et mes expérimentations directement sur GitHub.
+Tu peux retrouver mes projets et mes expérimentations directement sur GitHub et Gunlol.
 
 <div align="center">
 
 <a href="https://github.com/chackeuse">
 <img src="https://img.shields.io/badge/GitHub-Chackeuse-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Chackeuse"/>
+</a>
+
+<a href="https://guns.lol/chackeuse">
+<img src="https://img.shields.io/badge/Gunlol-Chackeuse-C66BFF?style=for-the-badge&logoColor=white" alt="Gunlol Chackeuse"/>
 </a>
 
 <br/><br/>
