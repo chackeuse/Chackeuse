@@ -218,7 +218,7 @@ Cette section évoluera au fur et à mesure de la publication de nouveaux projet
 
 <br/><br/>
 
-## 💻 Répartition de mes langages
+##   Répartition de mes langages
 
 <img src="https://img.shields.io/badge/JavaScript-35%25-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript 35%"/>
 <img src="https://img.shields.io/badge/Python-30%25-C66BFF?style=for-the-badge&logo=python&logoColor=white" alt="Python 30%"/>
