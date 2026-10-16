@@ -4,15 +4,15 @@
 
 # Chackeuse
 
-**Developpeuse · Front-End · Unity · VRChat**
+**Développeuse · Front-End · Unity · VRChat**
 
 Je développe, je crée et je teste de nouvelles idées.
 
-[![Java](https://img.shields.io/badge/Java-C66BFF?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-F05CEB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-C66BFF?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![Java](https://img.shields.io/badge/Java-C66BFF?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge\&logo=javascript\&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-F05CEB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-C66BFF?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
 
 </div>
 
@@ -28,12 +28,13 @@ J'aime partir d'une idée, expérimenter différentes possibilités et essayer d
 
 Je travaille sur différents projets, que ce soit des interfaces web, des scripts, des applications ou des projets autour de Unity et VRChat.
 
-- Développement front-end en HTML, CSS et JavaScript
-- Projets en Java et Python
-- Création d'interfaces et personnalisation visuelle
-- Projets Unity et VRChat
-- Upload et modification d'avatars VRChat
-- Expérimentations et projets personnels
+* Développement front-end en HTML, CSS et JavaScript
+* Projets en Java et Python
+* Création d'interfaces et personnalisation visuelle
+* Développement de plugins Minecraft
+* Projets Unity et VRChat
+* Upload et modification d'avatars VRChat
+* Expérimentations et projets personnels
 
 Je partage ici mes créations, mes tests et les projets sur lesquels je travaille.
 
@@ -47,13 +48,13 @@ Je partage ici mes créations, mes tests et les projets sur lesquels je travaill
 
 </div>
 
-| Langage | Utilisation |
-|:---|:---|
-| Java | Développement et projets personnels |
-| JavaScript | Bots Discord, commandes personnalisées, automatisation et fonctionnalités interactives.  |
-| Python | Scripts, outils personnalisés, automatisation et programmes utilitaires. |
-| HTML | Structure de pages web et création d'interfaces front-end. |
-| CSS | Design, animations, mises en page modernes et interfaces responsive. |
+| Langage    | Utilisation                                                         |
+| :--------- | :------------------------------------------------------------------ |
+| Java       | Développement de plugins Minecraft et projets personnels            |
+| JavaScript | Bots Discord, automatisation et fonctionnalités interactives        |
+| Python     | Scripts, outils personnalisés et automatisation                     |
+| HTML       | Structure de pages web et interfaces front-end                      |
+| CSS        | Design, animations, mises en page modernes et interfaces responsive |
 
 ---
 
@@ -65,12 +66,12 @@ Je partage ici mes créations, mes tests et les projets sur lesquels je travaill
 
 </div>
 
-| Outil | Utilisation |
-|:---|:---|
-| Visual Studio Code | Développement web, scripts et édition de code |
-| IntelliJ IDEA | Développement Java |
-| Unity | Préparation, personnalisation et upload d'avatars VRChat |
-| GitHub | Hébergement de projets, partage de code et gestion de versions |
+| Outil              | Utilisation                                                    |
+| :----------------- | :------------------------------------------------------------- |
+| Visual Studio Code | Développement web, scripts et édition de code                  |
+| IntelliJ IDEA      | Développement Java                                             |
+| Unity              | Préparation, personnalisation et upload d'avatars VRChat       |
+| GitHub             | Hébergement de projets, partage de code et gestion de versions |
 
 ---
 
@@ -82,14 +83,55 @@ J'aime créer des interfaces visuellement travaillées, tester des styles diffé
 
 Mes domaines d'intérêt :
 
-- Création de pages web en HTML et CSS
-- Interfaces interactives en JavaScript
-- Design sombre, néon et cyberpunk
-- Personnalisation des couleurs et des animations
-- Mise en page responsive
-- Expérimentation de nouvelles idées visuelles
+* Création de pages web en HTML et CSS
+* Interfaces interactives en JavaScript
+* Design sombre et interfaces personnalisées
+* Personnalisation des couleurs et des animations
+* Mise en page responsive
+* Expérimentation de nouvelles idées visuelles
 
 Mon objectif est de créer des interfaces à la fois esthétiques et agréables à utiliser.
+
+---
+
+## Nexora MC — ChunkUnlocker
+
+**Nexora MC est mon plus gros projet : un serveur Minecraft de farm basé sur le concept de ChunkUnlocker, développé en Java avec mon associé Astra.**
+
+Nous travaillons ensemble sur ce projet avec l'ambition de proposer une expérience Minecraft originale, construite autour d'un gameplay captivant et d'un système de progression qui donne envie aux joueurs d'aller toujours plus loin.
+
+L'objectif est de créer un serveur avec sa propre identité, ses mécaniques personnalisées et une expérience de farming différente des serveurs Minecraft classiques.
+
+### Le projet en bref
+
+| Information       | Détails                   |
+| :---------------- | :------------------------ |
+| Nom               | Nexora MC                 |
+| Type              | Serveur Minecraft de farm |
+| Concept           | ChunkUnlocker             |
+| Langage principal | Java                      |
+| Développement     | Chackeuse & Astra         |
+
+### Développement du serveur
+
+Le développement de Nexora MC représente un projet important dans mon parcours de développeuse. Il me permet de travailler sur des fonctionnalités personnalisées et de participer à la conception d'une véritable expérience de jeu.
+
+Nos domaines de travail comprennent :
+
+* Développement de plugins Minecraft en Java
+* Création de mécaniques de gameplay personnalisées
+* Conception de systèmes de progression et de farming
+* Développement de fonctionnalités adaptées au concept ChunkUnlocker
+* Tests, corrections et amélioration des performances
+* Collaboration sur un projet de serveur à long terme
+
+### Notre ambition
+
+Nous voulons faire de Nexora MC un serveur de farm proposant un gameplay immersif, une progression intéressante et des fonctionnalités qui lui sont propres.
+
+Ce projet est le résultat de notre travail commun, de nos idées et de notre volonté de construire une expérience Minecraft qui se démarque.
+
+**Nexora MC, c'est notre projet, notre vision du farming et une expérience Minecraft que nous développons ensemble.**
 
 ---
 
@@ -97,37 +139,35 @@ Mon objectif est de créer des interfaces à la fois esthétiques et agréables 
 
 Je travaille également sur des projets liés à VRChat, notamment autour des avatars et de Unity.
 
-Je pars de bases d'avatars existantes que j'ai obtenues ou ripées, puis je peux les uploader telles quelles ou les modifier selon le projet.
+Je m'intéresse à la préparation des avatars, à leur personnalisation et à leur intégration dans Unity avant leur publication sur VRChat.
 
-Je m'intéresse notamment à :
+Mes domaines d'intérêt :
 
-- L'importation et la préparation d'avatars dans Unity
-- L'upload d'avatars sur VRChat
-- La personnalisation d'avatars existants
-- Les modifications visuelles et techniques
-- La résolution de problèmes liés aux projets Unity
+* Importation et préparation d'avatars dans Unity
+* Upload d'avatars sur VRChat
+* Personnalisation d'avatars existants
+* Modifications visuelles et techniques
+* Résolution de problèmes liés aux projets Unity
 
-Je propose aussi des services d'upload Unity à petit prix.
-
-Les modifications et les publications dépendent du projet, des autorisations disponibles et des droits associés aux ressources utilisées.
+Je propose également des services d'upload Unity à petit prix, selon le travail demandé et les autorisations disponibles.
 
 ---
 
 ## Mes projets
 
-J'aime travailler sur plein de projets différents et explorer de nouvelles idées.
+J'aime travailler sur différents projets et explorer de nouvelles idées.
 
 Sur mon GitHub, tu pourras retrouver mes créations, mes expérimentations et mes outils.
 
 Mes projets peuvent concerner :
 
-- Développement Java
-- Applications et scripts Python
-- Interfaces web HTML, CSS et JavaScript
-- Projets front-end
-- Outils et expérimentations personnelles
-- Unity et VRChat
-- Personnalisation et création de projets numériques
+* **Nexora MC** — Serveur Minecraft ChunkUnlocker développé avec Astra
+* Développement de plugins Minecraft en Java
+* Applications et scripts Python
+* Interfaces web HTML, CSS et JavaScript
+* Bots Discord et automatisation
+* Unity et VRChat
+* Outils et expérimentations personnelles
 
 Cette section évoluera au fil de mes créations.
 
@@ -139,11 +179,11 @@ Je propose des services d'upload Unity pour VRChat à des prix accessibles.
 
 Selon le projet, je peux notamment aider pour :
 
-- La préparation d'un projet Unity
-- L'importation d'avatars
-- L'upload d'avatars sur VRChat
-- Certaines modifications d'avatars
-- La résolution de problèmes techniques courants
+* La préparation d'un projet Unity
+* L'importation d'avatars
+* L'upload d'avatars sur VRChat
+* Certaines modifications d'avatars
+* La résolution de problèmes techniques courants
 
 Les tarifs dépendent du travail demandé.
 
@@ -173,18 +213,19 @@ Continuer à progresser, apprendre de nouvelles choses et développer des projet
 
 Je souhaite notamment :
 
-- Améliorer mes compétences en développement front-end
-- Approfondir Java, JavaScript et Python
-- Créer des interfaces web plus travaillées
-- Développer de nouveaux outils et applications
-- Explorer davantage Unity et VRChat
-- Partager mes projets et mes expériences
+* Améliorer mes compétences en développement front-end
+* Approfondir Java, JavaScript et Python
+* Développer Nexora MC avec Astra
+* Créer des interfaces web plus travaillées
+* Développer de nouveaux outils et applications
+* Explorer davantage Unity et VRChat
+* Partager mes projets et mes expériences
 
 ---
 
 ## Contact
 
-Tu peux retrouver mes projets et mes expérimentations directement sur GitHub tu peut retrouver des moyen de contact sur mon Gunlol.
+Tu peux retrouver mes projets et mes expérimentations directement sur GitHub. Tu peux également trouver mes moyens de contact sur mon Gunlol.
 
 <div align="center">
 
