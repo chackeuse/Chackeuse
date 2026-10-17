@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0614,40:8A2BE2,75:C66BFF,100:F05CEB&height=200&section=header&text=CHACKEUSE&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developpeuse%20Multi-Projets&descAlignY=60&descSize=17" width="100%" alt="Chackeuse"/>
 
-#Chackeuse
+# Chackeuse
 
 **Développeuse · Python · Java · JavaScrip · C# · C++ · HTML - CSS ·**
 
