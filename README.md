@@ -4,7 +4,7 @@
 
 # Chackeuse
 
-**Développeuse · Front-End · Unity · VRChat**
+**Développeuse · Python · Java · JavaScrip · C# · C++ · HTML - CSS ·  **
 
 Je développe, je crée et je teste de nouvelles idées.
 
