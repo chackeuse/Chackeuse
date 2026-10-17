@@ -22,6 +22,7 @@ Je développe, je crée et je teste de nouvelles idées.
 
 ## À propos de moi
 
+
 Hey, moi c'est Chackeuse.
 
 Je suis développeuse et je m'intéresse à plusieurs domaines : le développement front-end, la création de projets, la personnalisation d'interfaces et l'univers de VRChat.
