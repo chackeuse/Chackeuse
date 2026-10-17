@@ -15,8 +15,6 @@ Je développe, je crée et je teste de nouvelles idées.
 [![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-C66BFF?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
 
-**Développeuse · Python · Java · JavaScript · C# · C++ · HTML · CSS**
-
 
 </div>
 
