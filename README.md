@@ -8,11 +8,16 @@
 
 Je développe, je crée et je teste de nouvelles idées.
 
-[![Java](https://img.shields.io/badge/Java-C66BFF?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge\&logo=javascript\&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-F05CEB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-C66BFF?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![Python](https://img.shields.io/badge/Python-F05CEB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-C66BFF?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![CSharp](https://img.shields.io/badge/C%23-C66BFF?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/fr-fr/dotnet/csharp/)
+[![C++](https://img.shields.io/badge/C%2B%2B-8A2BE2?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-C66BFF?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
+
+**Développeuse · Python · Java · JavaScript · C# · C++ · HTML · CSS**
+
 
 </div>
 
