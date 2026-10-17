@@ -34,9 +34,30 @@ Je travaille sur différents projets, que ce soit des interfaces web, des script
 * Développement de plugins Minecraft
 * Projets Unity et VRChat
 * Upload et modification d'avatars VRChat
+* Développement et distribution d'installateurs pour les jeux VR
 * Expérimentations et projets personnels
 
-Je partage ici mes créations, mes tests et les projets sur lesquels je travaille.
+Je partage ici mes créations, mes outils et les projets sur lesquels je travaille.
+
+---
+
+## Activité principale sur GitHub
+
+Mon activité publique principale sur GitHub consiste à développer et mettre à disposition des **installateurs permettant de jouer en réalité virtuelle à des jeux qui ne prennent normalement pas en charge la VR**.
+
+L'objectif est de rendre ces expériences accessibles aux joueurs équipés d'un casque VR, même lorsque les jeux concernés ne proposent pas nativement de mode de réalité virtuelle.
+
+Je m'intéresse notamment à la création d'installateurs simplifiant la préparation et la configuration des fichiers nécessaires, afin de rendre leur utilisation plus accessible.
+
+### Ce que je propose
+
+* **Installateurs VR** — Des solutions pour faciliter l'installation des composants nécessaires à certaines expériences VR.
+* **Compatibilité des jeux** — Des projets visant à rendre accessibles en VR des jeux qui ne sont pas conçus nativement pour cet usage.
+* **Simplicité d'installation** — Des installateurs destinés à simplifier les étapes techniques pour les utilisateurs.
+* **Projets open source** — Des outils et des ressources publiés sur GitHub, selon les projets.
+* **Expérimentation technique** — Des recherches autour de la compatibilité, de la configuration et de l'utilisation de la réalité virtuelle.
+
+Ces projets constituent le cœur de mon activité publique. Je souhaite permettre à davantage de joueurs de découvrir leurs jeux autrement, en explorant les possibilités offertes par la réalité virtuelle.
 
 ---
 
@@ -96,7 +117,7 @@ Mon objectif est de créer des interfaces à la fois esthétiques et agréables 
 
 ## Nexora MC — ChunkUnlocker
 
-**Nexora MC est mon plus gros projet : un serveur Minecraft de farm basé sur le concept de ChunkUnlocker, développé en Java avec mon associé Astra.**
+**Nexora MC est mon plus gros projet Minecraft : un serveur de farm basé sur le concept de ChunkUnlocker, développé en Java avec mon associé Astra.**
 
 Nous travaillons ensemble sur ce projet avec l'ambition de proposer une expérience Minecraft originale, construite autour d'un gameplay captivant et d'un système de progression qui donne envie aux joueurs d'aller toujours plus loin.
 
@@ -161,13 +182,14 @@ Sur mon GitHub, tu pourras retrouver mes créations, mes expérimentations et me
 
 Mes projets peuvent concerner :
 
-* **Nexora MC** — Serveur Minecraft ChunkUnlocker développé avec Astra
-* Développement de plugins Minecraft en Java
-* Applications et scripts Python
-* Interfaces web HTML, CSS et JavaScript
-* Bots Discord et automatisation
-* Unity et VRChat
-* Outils et expérimentations personnelles
+* **Installateurs VR** — Outils destinés à faciliter l'accès à certains jeux en réalité virtuelle.
+* **Nexora MC** — Serveur Minecraft ChunkUnlocker développé avec Astra.
+* **Plugins Minecraft** — Mécaniques de gameplay et fonctionnalités personnalisées en Java.
+* **Applications et scripts Python** — Outils et automatisation.
+* **Interfaces web** — Projets en HTML, CSS et JavaScript.
+* **Bots Discord** — Fonctionnalités interactives et automatisation.
+* **Unity et VRChat** — Préparation, personnalisation et upload d'avatars.
+* **Projets personnels** — Expérimentations et nouvelles idées.
 
 Cette section évoluera au fil de mes créations.
 
@@ -216,6 +238,8 @@ Je souhaite notamment :
 * Améliorer mes compétences en développement front-end
 * Approfondir Java, JavaScript et Python
 * Développer Nexora MC avec Astra
+* Améliorer mes outils et installateurs dédiés à la réalité virtuelle
+* Faciliter l'accès aux jeux VR grâce à des solutions simples à utiliser
 * Créer des interfaces web plus travaillées
 * Développer de nouveaux outils et applications
 * Explorer davantage Unity et VRChat
@@ -240,3 +264,4 @@ Tu peux retrouver mes projets et mes expérimentations directement sur GitHub. T
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F05CEB,50:8A2BE2,100:0D0614&height=120&section=footer" width="100%" alt="Footer Chackeuse"/>
 
 </div>
+
